@@ -1,0 +1,104 @@
+================= Logging started at 2/15/2010 09:27:49 PM ==================
+Calculating size of cabinet files...
+Copying uncompressed setup files...
+Building value added services data (VasData.ini) file...
+Preprocessing data for data1.hdr...
+Feature: <Support>
+Feature: <Support>\Engine
+Feature: <Support>\Engine\Log
+Feature: <Support>\Engine\Kernel
+   Component: <Engine>Kernel Placeholder
+   Component: <Engine>EngineCommonPlaceHolderSelfReg
+Feature: <Support>\Main Installation
+Feature: <Data>
+Feature: Script
+   Component: <Support>Script
+Feature: Setup
+   Component: <Support>Language Independent OS Independent Files
+   Component: <Support>English OS Independent Files
+   Component: <Support>Misc Support Files
+   Component: <Support>Build Generated Support Files
+   Component: <Support>Misc i64 Support Files
+   Component: <Support>Misc x64 Support Files
+Feature: StrTbl
+   Component: <Support>English String Tables
+Feature: RunTime
+   Component: <Support>Non-SelfRegistering
+Feature: Resource
+   Component: <Support>English Files
+Feature: Disk<1>
+   Component: <Disk1>Disk1 Files(1)
+   Component: <Disk1>Disk1 Files(2)
+   Component: <Disk1>Disk1 Files(3)
+   Component: <Disk1>Disk1 Files(4)
+Feature: DefaultFeature
+   Component: DefaultComponent
+   Component: Files
+Adding Object: DefaultFeature\New Merge Module Holder Object 1.
+Merging Microsoft Component Category Manager Library: G:\Program Files\InstallShield\2009\Modules\i386\COMCAT.MSM
+Merging Visual Basic Virtual Machine: G:\Program Files\InstallShield\2009\Modules\i386\MSVBVM60.MSM
+Merging Microsoft OLE 2.40  for Windows NT(TM) and Windows 95(TM) Operating Systems: G:\Program Files\InstallShield\2009\Modules\i386\OLEAUT32.MSM
+Merging : Object Guid - {70E59B2D-67F5-4859-A4C8-AF92109AA608}
+Description - The operation completed successfully.
+
+   Feature: DefaultFeature\New Merge Module Holder Object 1.
+   Feature: Msi12A.
+   Feature: Msi12W.
+   Feature: Msi20A.
+   Feature: Msi20W.
+   Feature: MsiComponent.
+Feature: DefaultFeature\ScannedProject1
+   Component: TARGETDIRFiles
+Processing registries...
+Building cabinet file data1.hdr...
+Building cabinet file data1.cab...
+Feature: <Support>
+Feature: <Support>\Engine
+Feature: <Support>\Engine\Log
+Feature: <Support>\Engine\Kernel
+   Component: <Engine>Kernel Placeholder
+   Component: <Engine>EngineCommonPlaceHolderSelfReg
+Feature: <Support>\Main Installation
+Feature: <Support>\Main Installation\Script
+   Component: <Support>Script
+Feature: <Support>\Main Installation\Setup
+   Component: <Support>Language Independent OS Independent Files
+   Component: <Support>English OS Independent Files
+   Component: <Support>Misc Support Files
+   Component: <Support>Build Generated Support Files
+   Component: <Support>Misc i64 Support Files
+   Component: <Support>Misc x64 Support Files
+Feature: <Support>\Main Installation\StrTbl
+   Component: <Support>English String Tables
+Feature: <Support>\Main Installation\RunTime
+   Component: <Support>Non-SelfRegistering
+Feature: <Support>\Main Installation\Resource
+   Component: <Support>English Files
+Feature: <Support>\9383efcc-47b9-44fc-91ee-d9e4a28b2419
+   Component: [New Merge Module Holder Object 1]NS_NSR_NPL_1___1
+Feature: <Data>
+Building cabinet file data2.cab...
+Feature: <Data>\Disk<1>
+   Component: <Disk1>Disk1 Files(1)
+   Component: <Disk1>Disk1 Files(2)
+   Component: <Disk1>Disk1 Files(3)
+   Component: <Disk1>Disk1 Files(4)
+Feature: <Data>\DefaultFeature
+   Component: DefaultComponent
+   Component: Files
+Feature: <Data>\DefaultFeature\New Merge Module Holder Object 1
+Feature: <Data>\DefaultFeature\New Merge Module Holder Object 1\Msi12A
+Feature: <Data>\DefaultFeature\New Merge Module Holder Object 1\Msi12W
+Feature: <Data>\DefaultFeature\New Merge Module Holder Object 1\Msi20A
+Feature: <Data>\DefaultFeature\New Merge Module Holder Object 1\Msi20W
+Feature: <Data>\DefaultFeature\New Merge Module Holder Object 1\MsiComponent
+   Component: [New Merge Module Holder Object 1]NS_NSR_NPL_1___<MSISTUBPATH>_1
+Feature: <Data>\DefaultFeature\ScannedProject1
+   Component: TARGETDIRFiles
+Creating disk layout file 'layout.bin'...
+Creating self-extracting exe...
+Build finished at 02/15/10 21:27:54.
+Release 1 - 0 error(s), 0 warning(s)
+================= Logging stopped at 2/15/2010 09:27:54 PM ==================
+Log file has been created: <file:G:\WORK\eBay Feedbacks\Setup\eBayFeedbacks\Media\Release 1\Log Files\2-15-2010 09-27-49 PM.txt>
+
